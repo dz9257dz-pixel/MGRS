@@ -47,6 +47,6 @@ openpyxl
 ```
 
 ## box plot
-
-outputs/sensitivity_analysis_dynweight.png
+ 
+<img width="1560" height="509" alt="image" src="https://github.com/user-attachments/assets/fe19d935-aa14-4807-948e-29d5f16dd53d" />
 
