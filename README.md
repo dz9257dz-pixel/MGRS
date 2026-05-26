@@ -16,7 +16,7 @@ python NR1.py
 # Step 2: 因果学习（输出 adj_causal_static.npy）
 python NR2.py
 
-# Step 3: 灵敏度分析（输出 Excel）
+# Step 3: 双流图融合训练
 python NR3.py
 ```
 
