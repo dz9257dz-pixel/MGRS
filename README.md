@@ -22,6 +22,9 @@ python NR3.py
 
 ## 输入数据
 
+<img width="3054" height="1376" alt="image" src="https://github.com/user-attachments/assets/b2705ed5-6f9a-4c4a-a53e-f049974e4087" />
+
+
 | 文件 | 说明 |
 |------|------|
 | `debutanizer.csv` | Debutanizer 过程数据，7维输入 + 1维输出 |
